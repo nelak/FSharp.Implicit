@@ -8,7 +8,7 @@ let referenceBinaries = [ "FSharp.Implicit.dll" ]
 // Web site location for the generated documentation
 let website = "/FSharp.Implicit"
 
-let githubLink = "http://github.com/fsprojects/FSharp.Implicit"
+let githubLink = "http://github.com/nelak/FSharp.Implicit"
 
 // Specify more information about your project
 let info =
